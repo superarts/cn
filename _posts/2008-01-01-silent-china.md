@@ -11,11 +11,13 @@ categories: 小说 他人作品 政治
 
 _注：《寂静之城》是马伯庸的作品，发表于《科幻世界》。该文某种程度上表达了对George Owell《1984》的敬意。本文系《寂静之城》的平行世界版。_
 
-- And in the naked light I saw ten thousand people, maybe more.
-- People talking without speaking, people hearing without listening.
-- People writing songs that voices never shared, no one dared disturb the
-- sound of silence.
+```
+And in the naked light I saw ten thousand people, maybe more.
+People talking without speaking, people hearing without listening.
+People writing songs that voices never shared, no one dared disturb the
+sound of silence.
 　　　　　　　　　　　　　　　　　　　　　　　　　　 — The sound of silence
+```
 
 　　中华人民共和国，2008年，北京。
 
