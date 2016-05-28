@@ -2,10 +2,10 @@
 layout: post
 title:  "漫画HunterXHunter人物命名考"
 date:   2010-02-24 01:26:00 +8000
-categories: 说明
+categories: 漫画
 ---
 
-刘老按：写这个的时候Leorio的姓Paladinknight、Hisoka的姓Morow还没公布。另外不知道为什么原文后面附了国际歌的歌词，大概是我当时还在中国的缘故？
+按：写这个的时候Leorio的姓Paladinknight、Hisoka的姓Morow还没公布。另外不知道为什么原文后面附了国际歌的歌词，大概是我当时还在中国的缘故？
 <hr>
 2016-05-28
 
