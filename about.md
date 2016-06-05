@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+这里收录了我年轻时代的一些作品。我从1998年左右开始向报刊投稿，稿费千字30-100元不等；2001年左右向杂志投稿，刊载篇幅可以长一些。其实现在想起来，当初作品能发表的原因，不过是因为报刊的撰稿人不多，而杂志撰稿人群体对计算机知识不熟悉，但我却错误地认为自己有文学才能，所以开始了几个错误的方向。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+一是在游戏方面，转向GameFAQs风格的长篇攻略。虽然花了很多时间，但发表率却非常不令人满意，期间也做了一些转型的尝试但并没有什么好结果。同时因为我开始打工，收入远比稿费为高，我也就不太在乎发表了，写的长篇攻略更加偏向自娱自乐。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+二是从2002年2月开始，我写作了大量文学小品，并向传统文学杂志投稿，结果是无人问津。然后和jiangao.com的雪青合作（或者说被他忽悠）写了一些没能出版的东西。我进而写作了一些中长篇作品，结果还是无疾而终，没有找到出版商。后来还在起点连载自己的长篇，发现确实读者很少，然后就渐渐不碰写作了。
+
+在这里针对我失败的文学道路，我想强调两点：第一，做事要有目的有计划，为了完成目的要树立可以度量的目标。这放在文学作品就是发表率点击率，放到app里就是下载量存留量，这些思想都是相通的。第二，做事要专注，同时要注意在一个圈子里积累声望。电子竞技、电玩、原创Rap、文学创作、视频、动画这些我都玩过，但是只是兴趣使然，后来这些领域各有红火之处，但也和我没什么关系，原因就是在圈子里没有人脉。人岁数越大，路一般来说都是越走越窄的，年轻的时候有很多东西可以挥霍，容易有自己无所不能的错觉，但天才毕竟还要加上努力才能成功。爱迪生可没说过什么“那百分之一的天才才是最重要的”这种话。
+
+刘日天
+
+2016-06-05
