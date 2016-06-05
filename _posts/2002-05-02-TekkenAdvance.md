@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "铁拳Advance"
-date:   2016-05-27 00:00:00 +8000
+date:   2002-05-02 00:00:00 +8000
 categories: 游戏 GBA 铁拳
 ---
 
